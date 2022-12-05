@@ -1,15 +1,16 @@
-# <Project title from AG-06>
+# SMPTE ST 2001-2, XML Representation of SMPTE Registered Data (Reg-XML) — AAF and MXF Data
 
-_This repository is <public> | <private>._ 
+_This repository is public._ 
 
 Please consult [CONTRIBUTING.md](./CONTRIBUTING.md), [CONFIDENTIALITY.md](./CONFIDENTIALITY.md), [LICENSE.md](./LICENSE.md) and [PATENTS.md](./PATENTS.md) for important notices.
 
 ## Reporting issues
 
-Please report issues at <link to GitHub issue tracker> or at <TC chair email address>.
+Please report issues at https://github.com/SMPTE/st2001-2/issues or at 31fs-chair@smpte.org.
 
 ## Project details
 
-<description from AG-06>
+This document specifies a Reg-XML baseline data model for AAF data and rules for mapping AAF data to AAF Reg-XML file groups.
 
-<and other useful information>
+
+
